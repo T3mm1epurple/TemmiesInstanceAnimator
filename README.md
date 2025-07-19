@@ -1,5 +1,7 @@
 # Temmies Instance Animator
 
+# [RELEASES HERE](https://github.com/T3mm1epurple/TemmiesInstanceAnimator/releases)
+
 # [WIKI HELP HERE](https://github.com/T3mm1epurple/TemmiesInstanceAnimator/wiki/Using-the-%22T.I.A%22-ModuleScript)
 
 ## Simplifying Instance Animation!
