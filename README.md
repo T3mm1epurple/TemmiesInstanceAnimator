@@ -106,4 +106,5 @@ local MyAnimModule = script.Parent.TemmieTweens.MyAnimation
 local track = TIA:Load(MyAnimModule)
 
 -- Play the animation
-track.Play()****
+track.Play()
+```
