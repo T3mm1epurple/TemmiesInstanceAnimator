@@ -10,7 +10,6 @@
 **T.I.A.** breaks the chains of traditional Roblox animation. No Motor6Ds, no rigging, no limitations.
 If it exists in the Explorer, **you can animate it.**
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Roblox](https://img.shields.io/badge/Platform-Roblox-red.svg)](https://www.roblox.com)
 
 [⬇️ Download Latest Release](https://github.com/T3mm1epurple/TemmiesInstanceAnimator/releases)
