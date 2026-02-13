@@ -86,7 +86,7 @@ Playing animations in-game is incredibly optimized. The plugin compiles your ani
 
 ### 1. Setup
 1. **Export:** Your animation saves as a ModuleScript inside your object.
-2. **Insert API:** Click "Insert Module" in the plugin toolbar to get the `T.I.A` engine (Move this to `ReplicatedStorage`).
+2. **Insert API:** Click "Insert Module" in the plugin ui to get the `T.I.A` engine (Will be placed in `ReplicatedStorage`).
 
 ### 2. Scripting
 ```lua
