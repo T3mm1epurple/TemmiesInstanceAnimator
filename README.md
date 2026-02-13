@@ -78,11 +78,6 @@ Need to tweak an animation? Just select the object or the saved **ModuleScript**
 2. Download the latest `.rbxmx` file.
 3. Drag and drop the file into your Roblox Studio **Plugins Folder**.
 
-### Method 2: Build from Source (Rojo)
-1. Clone this repository.
-2. Build using Rojo: `rojo build -o plugin.rbxmx`.
-3. Move the output file to your plugins folder.
-
 ---
 
 ## 💻 API & Usage
